@@ -2,7 +2,7 @@
 
 A relational database and Power BI dashboard that monitors routine vaccination coverage across six West and Central African countries from 2015 to 2025. The project answers a core monitoring and evaluation question: **where is coverage lowest, and where are children being lost between the first and third dose?**
 
-![Dashboard](WUENIC IMMUNIZATION DASHBOARD_page-0001)
+![Immunization Coverage Monitoring Dashboard](./immunization-coverage-dashboard.jpg)
 
 ## Key findings (2025)
 
